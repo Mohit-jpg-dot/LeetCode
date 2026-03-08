@@ -19,6 +19,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0027-remove-element) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
@@ -32,5 +33,6 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
