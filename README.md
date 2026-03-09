@@ -35,4 +35,12 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0027-remove-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
