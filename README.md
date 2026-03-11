@@ -39,8 +39,10 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
