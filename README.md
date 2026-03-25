@@ -33,6 +33,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -65,6 +66,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [2906-construct-product-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Design
@@ -134,4 +137,8 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
