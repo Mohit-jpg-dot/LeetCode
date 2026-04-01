@@ -113,6 +113,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
@@ -135,6 +136,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Design
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1622-fancy-sequence](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -151,4 +153,20 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
