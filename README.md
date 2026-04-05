@@ -28,6 +28,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0027-remove-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -46,6 +47,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Backtracking
@@ -150,6 +152,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
