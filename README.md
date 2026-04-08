@@ -21,6 +21,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
