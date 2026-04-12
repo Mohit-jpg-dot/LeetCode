@@ -27,6 +27,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0027-remove-element) |
@@ -52,6 +53,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
