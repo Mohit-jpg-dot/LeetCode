@@ -11,6 +11,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Recursion
@@ -45,6 +46,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -214,4 +216,8 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1652-defuse-the-bomb) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
