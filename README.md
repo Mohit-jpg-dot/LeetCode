@@ -194,6 +194,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -202,6 +203,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -229,4 +231,8 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2833-furthest-point-from-origin) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
