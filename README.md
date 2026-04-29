@@ -24,6 +24,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0258-add-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -139,6 +140,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0326-power-of-three) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1622-fancy-sequence) |
@@ -238,4 +240,8 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
