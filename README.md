@@ -7,6 +7,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0796-rotate-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0796-rotate-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -247,4 +248,8 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
