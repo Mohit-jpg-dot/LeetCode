@@ -64,6 +64,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [3546-equal-sum-grid-partition-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3660-jump-game-ix) |
@@ -75,6 +76,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Backtracking
 |  |
@@ -155,6 +157,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -249,10 +252,12 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0258-add-digits) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching
 |  |
 | ------- |
