@@ -30,6 +30,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0258-add-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0258-add-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Array
@@ -59,6 +60,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
