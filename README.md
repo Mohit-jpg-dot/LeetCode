@@ -50,6 +50,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1652-defuse-the-bomb](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -135,6 +136,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Greedy
 |  |
 | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -207,6 +209,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | ------- |
 | [0075-sort-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
