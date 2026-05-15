@@ -11,9 +11,9 @@ class Solution {
                 }
             }
         }
-        while(!st.isEmpty()){
-            sb.append(st.pop());
-        }
+        // while(!st.isEmpty()){
+        //     sb.append(st.pop());
+        // }
         return sb.toString();
     }
 }
