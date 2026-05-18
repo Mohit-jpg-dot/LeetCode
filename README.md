@@ -22,6 +22,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0326-power-of-three) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -254,6 +255,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Sliding Window
 |  |
 | ------- |
