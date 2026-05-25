@@ -106,6 +106,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0075-sort-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -264,6 +265,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sliding Window
 |  |
