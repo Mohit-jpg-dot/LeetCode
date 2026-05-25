@@ -24,6 +24,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0021-merge-two-sorted-lists](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0326-power-of-three) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
@@ -105,6 +106,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0027-remove-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -266,6 +268,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -299,6 +302,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
