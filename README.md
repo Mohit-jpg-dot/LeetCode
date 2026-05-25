@@ -110,6 +110,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
@@ -267,6 +268,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0203-remove-linked-list-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -297,5 +299,6 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0224-basic-calculator) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
