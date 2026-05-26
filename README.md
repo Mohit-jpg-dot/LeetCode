@@ -8,6 +8,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0224-basic-calculator](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0224-basic-calculator) |
+| [0520-detect-capital](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0796-rotate-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
