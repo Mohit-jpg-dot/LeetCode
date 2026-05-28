@@ -245,6 +245,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -254,6 +255,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -292,6 +294,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -309,4 +312,8 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0234-palindrome-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
