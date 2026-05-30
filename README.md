@@ -318,4 +318,8 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
