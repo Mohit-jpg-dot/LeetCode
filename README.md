@@ -67,6 +67,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2540-minimum-common-value) |
@@ -162,6 +163,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -237,6 +239,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Enumeration
 |  |
