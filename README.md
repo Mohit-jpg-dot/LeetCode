@@ -56,6 +56,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0075-sort-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0283-move-zeroes) |
@@ -99,6 +100,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0001-two-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -255,6 +257,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | ------- |
 | [0049-group-anagrams](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -292,6 +295,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0169-majority-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
 |  |
@@ -317,6 +321,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0169-majority-element) |
 | [2833-furthest-point-from-origin](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Breadth-First Search
 |  |
