@@ -165,6 +165,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0029-divide-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Binary Search
@@ -207,6 +208,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0048-rotate-image) |
 | [0224-basic-calculator](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0258-add-digits) |
