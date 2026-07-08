@@ -30,6 +30,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0021-merge-two-sorted-lists](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0326-power-of-three) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -166,6 +167,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Binary Search
@@ -211,6 +213,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0029-divide-two-integers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0048-rotate-image) |
 | [0224-basic-calculator](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0396-rotate-function) |
