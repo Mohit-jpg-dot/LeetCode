@@ -169,6 +169,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0029-divide-two-integers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0461-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Binary Search
