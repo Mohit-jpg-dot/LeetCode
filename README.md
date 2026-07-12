@@ -64,6 +64,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0396-rotate-function) |
+| [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1652-defuse-the-bomb](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1652-defuse-the-bomb) |
@@ -109,6 +110,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -273,6 +275,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0169-majority-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
