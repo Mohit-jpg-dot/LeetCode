@@ -11,6 +11,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0049-group-anagrams) |
 | [0224-basic-calculator](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0796-rotate-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -110,6 +111,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2540-minimum-common-value) |
@@ -276,6 +278,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0169-majority-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
