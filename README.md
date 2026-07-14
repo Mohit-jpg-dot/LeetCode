@@ -65,6 +65,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0396-rotate-function) |
+| [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -112,6 +113,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0219-contains-duplicate-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2540-minimum-common-value) |
@@ -174,6 +176,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0190-reverse-bits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Binary Search
@@ -279,6 +282,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
