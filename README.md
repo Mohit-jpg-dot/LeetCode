@@ -63,6 +63,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
@@ -167,6 +168,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -197,6 +199,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0074-search-a-2d-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -355,6 +358,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1652-defuse-the-bomb](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Trie
