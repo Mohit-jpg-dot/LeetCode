@@ -40,6 +40,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | ------- |
 | [0258-add-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0258-add-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -82,6 +83,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -265,6 +267,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1861-rotating-the-box](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2906-construct-product-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
