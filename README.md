@@ -238,6 +238,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0224-basic-calculator](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -410,9 +411,11 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
