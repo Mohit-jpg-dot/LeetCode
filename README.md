@@ -90,6 +90,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [2022-convert-1d-array-into-2d-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2404-most-frequent-even-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2540-minimum-common-value) |
@@ -127,6 +128,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2404-most-frequent-even-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -381,6 +383,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0169-majority-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2404-most-frequent-even-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Breadth-First Search
 |  |
