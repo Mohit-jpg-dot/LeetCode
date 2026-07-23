@@ -12,6 +12,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0049-group-anagrams](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0049-group-anagrams) |
 | [0224-basic-calculator](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0796-rotate-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -125,6 +126,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -194,6 +196,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0190-reverse-bits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -310,6 +313,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
