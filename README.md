@@ -75,6 +75,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0283-move-zeroes](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -257,6 +258,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0292-nim-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -321,6 +323,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0242-valid-anagram](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
