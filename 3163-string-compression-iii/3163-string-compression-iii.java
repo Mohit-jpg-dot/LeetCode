@@ -4,14 +4,9 @@ class Solution {
         for(int i = 0;i<word.length();i++){
             char ch = word.charAt(i);
             int count = 0;
-            while(i<word.length() && word.charAt(i) == ch){
+            while(i<word.length() && word.charAt(i) == ch && count < 9){
                 count++;
                 i++;
-                if(count == 9){
-                    res.append(count);
-                    res.append(ch);
-                    count = 0;
-                }
             }
             i--;
             if(count!=0){
