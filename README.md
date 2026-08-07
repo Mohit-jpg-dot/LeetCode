@@ -27,6 +27,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3163-string-compression-iii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3163-string-compression-iii) |
 ## Recursion
 |  |
 | ------- |
