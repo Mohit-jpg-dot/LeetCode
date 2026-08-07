@@ -1,5 +1,6 @@
 class Solution {
     public boolean isDivisible(int n,int t){
+        if(n%10 == 0) return true;
         int product = 1;
         while(n!=0){
             product *= n%10;
