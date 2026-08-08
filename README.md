@@ -61,6 +61,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0078-subsets) |
@@ -179,6 +180,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0396-rotate-function) |
@@ -238,6 +240,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0055-jump-game) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
