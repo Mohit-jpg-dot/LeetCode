@@ -28,6 +28,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3163-string-compression-iii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3163-string-compression-iii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -476,4 +478,8 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
