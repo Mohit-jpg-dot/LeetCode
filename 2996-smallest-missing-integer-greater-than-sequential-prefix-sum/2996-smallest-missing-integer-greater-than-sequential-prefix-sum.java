@@ -13,10 +13,7 @@ class Solution {
         for(int x:nums){
             set.add(x);
         }
-        for(int x:set){
-            if(!set.contains(sum)){
-                return sum;
-            }
+        while(set.contains(sum)){
             sum++;
         }
         return sum;
