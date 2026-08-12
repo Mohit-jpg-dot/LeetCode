@@ -84,6 +84,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0455-assign-cookies](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
+| [0860-lemonade-change](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -247,6 +248,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0011-container-with-most-water](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0860-lemonade-change) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
