@@ -16,7 +16,6 @@ class Solution {
                 } 
             }
             else{
-                int total = (dollarCount5 * 5) + (dollarCount10 * 10);
                 if(dollarCount10 > 0 && dollarCount5 > 0){
                     dollarCount10--;
                     dollarCount5--;
