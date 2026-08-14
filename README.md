@@ -38,6 +38,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0231-power-of-two](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -226,6 +227,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0191-number-of-1-bits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
@@ -287,6 +289,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0258-add-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
