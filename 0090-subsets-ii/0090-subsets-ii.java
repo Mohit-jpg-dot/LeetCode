@@ -1,16 +1,16 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        List<List<Integer>> result = new ArrayList<>();
-        for(int mask = 0;mask<(1<<nums.length);mask++){
+        Set<List<Integer>> set = new HashSet<>();
+        for (int mask = 0; mask < (1 << nums.length); mask++) {
             List<Integer> list = new ArrayList<>();
-            for(int i = 0;i<nums.length;i++){
-                if((mask&(1<<i)) != 0){
+            for (int i = 0; i < nums.length; i++) {
+                if ((mask & (1 << i)) != 0) {
                     list.add(nums[i]);
                 }
             }
-            result.add(list);
+            set.add(list);
         }
-        return new ArrayList<>(new LinkedHashSet<>(result));
+        return new ArrayList<>(set);
     }
 }
