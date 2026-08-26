@@ -199,6 +199,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0396-rotate-function](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0397-integer-replacement) |
 | [0877-stone-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1025-divisor-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -233,6 +234,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0260-single-number-iii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -259,6 +261,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0011-container-with-most-water](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0860-lemonade-change) |
@@ -516,4 +519,8 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0455-assign-cookies) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
