@@ -1,12 +1,16 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        Arrays.sort(nums);
-        int i = 1;
+        Set<Integer> set = new HashSet<>();
         for(int x:nums){
-            if(x == k*i){
-                i++;
+            if(x%k == 0){
+                set.add(x);
             }
         }
-        return k*i;
+        for(int i = 1;i<=set.size()+1;i++){
+            if(!set.contains(i*k)){
+                return k*i;
+            }
+        }
+        return 0;
     }
 }
