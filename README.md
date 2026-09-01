@@ -85,6 +85,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0347-top-k-frequent-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0455-assign-cookies) |
+| [0477-total-hamming-distance](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0605-can-place-flowers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
@@ -238,6 +239,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0389-find-the-difference](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0461-hamming-distance) |
+| [0477-total-hamming-distance](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0868-binary-gap) |
@@ -303,6 +305,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0326-power-of-three](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0396-rotate-function) |
+| [0477-total-hamming-distance](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0877-stone-game) |
