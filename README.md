@@ -92,6 +92,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -345,6 +346,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
