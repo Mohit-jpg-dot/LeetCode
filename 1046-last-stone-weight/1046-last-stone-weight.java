@@ -5,7 +5,7 @@ class Solution {
             pq.offer(x);
         }
         while(pq.size() != 1){
-            pq.offer(Math.abs(pq.poll() - pq.poll()));
+            pq.offer(pq.poll() - pq.poll());
         }
         return pq.poll();
     }
