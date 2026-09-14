@@ -294,6 +294,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [3870-count-commas-in-range](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
