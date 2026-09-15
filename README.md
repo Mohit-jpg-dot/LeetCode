@@ -31,6 +31,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3163-string-compression-iii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3163-string-compression-iii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3838-weighted-word-mapping](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -141,6 +143,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
