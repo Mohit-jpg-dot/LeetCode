@@ -100,6 +100,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1207-unique-number-of-occurrences](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1652-defuse-the-bomb](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1652-defuse-the-bomb) |
@@ -166,6 +167,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2404-most-frequent-even-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2540-minimum-common-value) |
@@ -218,6 +220,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0397-integer-replacement](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0397-integer-replacement) |
 | [0877-stone-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1025-divisor-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -271,6 +274,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -472,6 +476,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Trie
