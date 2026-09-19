@@ -97,6 +97,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0877-stone-game) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1046-last-stone-weight](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -167,6 +168,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0389-find-the-difference](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -494,6 +496,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0229-majority-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2404-most-frequent-even-element](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Breadth-First Search
