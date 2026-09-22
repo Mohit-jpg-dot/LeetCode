@@ -108,6 +108,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1652-defuse-the-bomb](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1672-richest-customer-wealth](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -381,6 +382,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0074-search-a-2d-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
