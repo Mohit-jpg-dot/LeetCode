@@ -8,6 +8,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -544,6 +545,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -598,6 +600,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
