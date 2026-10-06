@@ -56,6 +56,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0258-add-digits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0258-add-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -128,6 +129,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -603,4 +605,8 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0020-valid-parentheses](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
