@@ -4,8 +4,7 @@ class Solution {
         for(int x:nums){
             pq.offer(x);
         }
-        k--;
-        while(k-- > 0){
+        for (int i = 0; i < k - 1; i++) {
             pq.poll();
         }
         return pq.peek();
