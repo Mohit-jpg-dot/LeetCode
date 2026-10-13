@@ -106,6 +106,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1046-last-stone-weight](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -356,6 +357,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1622-fancy-sequence](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1622-fancy-sequence) |
@@ -388,6 +390,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0347-top-k-frequent-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -438,6 +441,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0455-assign-cookies](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0645-set-mismatch) |
+| [0973-k-closest-points-to-origin](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -490,6 +494,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | [0191-number-of-1-bits](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
 |  |
@@ -588,6 +593,7 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
 | ------- |
@@ -614,4 +620,12 @@ A personal archive of solved LeetCode challenges, showcasing problem-solving ski
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mohit-jpg-dot/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
